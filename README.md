@@ -1,3 +1,3 @@
 # Quiz-Game
 
-Vidoe: https://youtu.be/ibVpLNofA-s
+Video: https://youtu.be/ibVpLNofA-s
